@@ -35,5 +35,4 @@ public class ThemeParksFragment extends Fragment {
         listView.setAdapter(adapter);
         return rootView;
     }
-
 }
