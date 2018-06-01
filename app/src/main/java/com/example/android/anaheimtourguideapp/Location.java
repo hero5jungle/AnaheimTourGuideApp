@@ -1,12 +1,12 @@
 package com.example.android.anaheimtourguideapp;
 
-public class Location_Class {
+public class Location {
     private static final int NO_IMAGE_PROVIDED = -1;
     private int mLocationNameId;
     private int mLocationAddressId;
     private int mImageResourceId = NO_IMAGE_PROVIDED;
 
-    public Location_Class(int locationNameId, int locationAddressId, int imageResourceId) {
+    public Location(int locationNameId, int locationAddressId, int imageResourceId) {
         mLocationNameId = locationNameId;
         mLocationAddressId = locationAddressId;
         mImageResourceId = imageResourceId;
