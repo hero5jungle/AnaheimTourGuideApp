@@ -24,7 +24,7 @@ public class LocationAdapter extends ArrayAdapter<Location> {
         View listItemView = convertView;
         if (listItemView == null) {
             listItemView = LayoutInflater.from(getContext()).inflate(
-                    R.layout.listview, parent, false);
+                    R.layout.poi_items, parent, false);
 
         }
 
