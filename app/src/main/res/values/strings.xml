@@ -6,16 +6,28 @@
     <string name="theme_parks">Theme Parks</string>
     <string name="landmarks">Landmarks</string>
 
-    <!-- TODO: Remove or change this placeholder text -->
-    <string name="hello_blank_fragment">Hello blank fragment</string>
-
     <!--Theme Park Names-->
     <string name="disneyland">Disneyland</string>
     <string name="knotts">Knott\'s Berry Farm</string>
     <string name="adventure">California Adventure</string>
+    <string name="soak_city">Soak City</string>
 
     <!--Theme Park Addresses-->
     <string name="disneyland_address">1313 Disneyland Dr, Anaheim, CA 92802</string>
     <string name="knotts_address">8039 Beach Blvd, Buena Park, CA 90620</string>
     <string name="adventure_address">1313 Disneyland Dr, Anaheim, CA 92802</string>
+    <string name="soak_city_address">8039 Beach Blvd, Buena Park, CA 90620</string>
+
+    <!--Landmarks Names-->
+    <string name="angel">Angel Stadium</string>
+    <string name="downtown_disney">Downtown Disney</string>
+    <string name="little_tokyo">Little Tokyo</string>
+    <string name="cathedral">Crystal Cathedral</string>
+
+    <!--Landmarks Addresses-->
+    <string name="angel_address">2000 E Gene Autry Way, Anaheim, CA 92806</string>
+    <string name="downtown_disney_address">Disneyland Dr at Katella Ave, Anaheim, CA 92804</string>
+    <string name="little_tokyo_address">Downtown, Southeast of the Civic Center</string>
+    <string name="cathedral_address">12141 Lewis St, Garden Grove, CA 92840</string>
+
 </resources>

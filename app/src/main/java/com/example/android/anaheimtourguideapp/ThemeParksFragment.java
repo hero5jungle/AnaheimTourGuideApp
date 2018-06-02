@@ -29,6 +29,8 @@ public class ThemeParksFragment extends Fragment {
                 R.drawable.knotts));
         locationArrayList.add(new Location(R.string.adventure, R.string.adventure_address,
                 R.drawable.cali_adventure));
+        locationArrayList.add(new Location(R.string.soak_city, R.string.soak_city_address,
+                R.drawable.soak_city));
 
         LocationAdapter adapter = new LocationAdapter(getActivity(), locationArrayList);
         ListView listView = (ListView) rootView.findViewById(R.id.list);

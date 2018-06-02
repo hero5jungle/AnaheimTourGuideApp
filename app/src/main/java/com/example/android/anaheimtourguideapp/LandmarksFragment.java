@@ -23,12 +23,14 @@ public class LandmarksFragment extends Fragment {
         View rootView = inflater.inflate(R.layout.listview, container, false);
 
         final ArrayList<Location> locationArrayList = new ArrayList<Location>();
-        locationArrayList.add(new Location(R.string.disneyland, R.string.disneyland_address,
-                R.drawable.disneyland));
-        locationArrayList.add(new Location(R.string.knotts, R.string.knotts_address,
-                R.drawable.knotts));
-        locationArrayList.add(new Location(R.string.adventure, R.string.adventure_address,
-                R.drawable.cali_adventure));
+        locationArrayList.add(new Location(R.string.angel, R.string.angel_address,
+                R.drawable.angel));
+        locationArrayList.add(new Location(R.string.downtown_disney, R.string.downtown_disney_address,
+                R.drawable.dtdisney));
+        locationArrayList.add(new Location(R.string.little_tokyo, R.string.little_tokyo_address,
+                R.drawable.tokyo));
+        locationArrayList.add(new Location(R.string.cathedral, R.string.cathedral_address,
+                R.drawable.cathedral));
 
         LocationAdapter adapter = new LocationAdapter(getActivity(), locationArrayList);
         ListView listView = (ListView) rootView.findViewById(R.id.list);
