@@ -23,3 +23,7 @@ Y
 Qapp/src/main/java/com/example/android/anaheimtourguideapp/ThemeParksFragment.java,3\e\3e68948712fd1e48a75d18b9594f59aa830ffc02
 ~
 Napp/src/main/java/com/example/android/anaheimtourguideapp/FragmentAdapter.java,0\0\003496c5f6c9905e3dce6d0b606c23afeace24d7
+|
+Lapp/src/main/java/com/example/android/anaheimtourguideapp/FoodsFragment.java,7\2\729e8c7c9a15b27082493cf62cda1c71fe0c6719
+}
+Mapp/src/main/java/com/example/android/anaheimtourguideapp/HotelsFragment.java,1\b\1bbaeeeb04f27d67a3e0908e35845c8c5cfb3bef
