@@ -15,11 +15,11 @@ S
 Napp/src/main/java/com/example/android/anaheimtourguideapp/LocationAdapter.java,7\e\7ef00408fd1f6d348e5f7668f3e8de7684916ba4
 w
 Gapp/src/main/java/com/example/android/anaheimtourguideapp/Location.java,b\8\b8aa061ac944ff2dc72f5faa36792bb58d47fc85
-~
-Napp/src/main/java/com/example/android/anaheimtourguideapp/CategoryAdapter.java,6\7\6717ea1a798d6846ae162e369e28d5d9fd92722d
 {
 Kapp/src/main/java/com/example/android/anaheimtourguideapp/MainActivity.java,6\b\6b5d109c3b0fad770bc1ae12b3fa62b7ab6220de
 Y
 )app/src/main/res/layout/activity_main.xml,7\6\76b07e40f24cce093536731477540f12e7da3cb6
 Å
 Qapp/src/main/java/com/example/android/anaheimtourguideapp/ThemeParksFragment.java,3\e\3e68948712fd1e48a75d18b9594f59aa830ffc02
+~
+Napp/src/main/java/com/example/android/anaheimtourguideapp/FragmentAdapter.java,0\0\003496c5f6c9905e3dce6d0b606c23afeace24d7

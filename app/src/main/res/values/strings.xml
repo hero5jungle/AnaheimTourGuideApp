@@ -1,7 +1,6 @@
 <resources>
     <string name="app_name">Anaheim Tour Guide App</string>
     <string name="action_settings">Settings</string>
-    <string name="section_format">Hello World from section: %1$d</string>
     <string name="local_attractions">local attractions</string>
     <string name="theme_parks">Theme Parks</string>
     <string name="landmarks">Landmarks</string>
@@ -26,8 +25,32 @@
 
     <!--Landmarks Addresses-->
     <string name="angel_address">2000 E Gene Autry Way, Anaheim, CA 92806</string>
-    <string name="downtown_disney_address">Disneyland Dr at Katella Ave, Anaheim, CA 92804</string>
+    <string name="downtown_disney_address">Disneyland Dr, Anaheim, CA 92804</string>
     <string name="little_tokyo_address">Downtown, Southeast of the Civic Center</string>
     <string name="cathedral_address">12141 Lewis St, Garden Grove, CA 92840</string>
+
+    <!--Foods Names-->
+    <string name="pancake_house">Original Pancake House</string>
+    <string name="jazz_kitchen">Jazz Kitchen</string>
+    <string name="tiki_bar">Enchanted Tiki Bar</string>
+    <string name="pf_chang">P.F. Chang\'s</string>
+
+    <!--Foods Addresses-->
+    <string name="pancake_house_address">1418 E Lincoln Ave, Anaheim, CA 92805</string>
+    <string name="jazz_kitchen_adddress">1590 S Disneyland Dr, Anaheim, CA 92802</string>
+    <string name="tiki_bar_address">1150 W Magic Way, Anaheim, CA 92802</string>
+    <string name="pf_chang_address">321 W Katella Ave, Garden Walk, Anaheim, CA 92802</string>
+
+    <!--Hotels Names-->
+    <string name="homewood_suites">Homewood Suites</string>
+    <string name="courtyard_anaheim">Courtyard Anaheim</string>
+    <string name="indigo">Hotel Indigo</string>
+    <string name="candy_cane">Candy Cane Inn</string>
+
+    <!--Hotels Addresses-->
+    <string name="homewood_suites_address">2010 S Harbor Blvd, Anaheim, CA 92802</string>
+    <string name="courtyard_anaheim_address">1420 South Harbor Boulevard, Anaheim, CA 92802</string>
+    <string name="indigo_address">435 West Katella Avenue, Anaheim, CA 92802</string>
+    <string name="candy_cane_address">1747 South Harbor Blvd., Anaheim, CA 92802</string>
 
 </resources>

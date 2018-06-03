@@ -1,2 +1,4 @@
 
-msquid:MaximumInheritanceDepth"=This class has 10 parents which is greater than 5 authorized.(²Ú±Ž8ä÷•í»,
+Msquid:S1905",Remove this unnecessary cast to "ViewPager".(Ô Ò‹úÿÿÿÿ8Ü¦””¼,
+ksquid:MaximumInheritanceDepth"=This class has 10 parents which is greater than 5 authorized.(²Ú±Ž8ä÷•í»,
+Hsquid:S1905",Remove this unnecessary cast to "TabLayout".(éÍíà8Ü¦””¼,

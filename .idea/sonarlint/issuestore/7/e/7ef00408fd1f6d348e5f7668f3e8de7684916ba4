@@ -1,5 +1,5 @@
 
-squid:S1319"|The type of the "locationArrayList" object should be an interface such as "List" rather than the implementation "ArrayList".(Å…—ûÿÿÿÿ8øÏõì»,
-Lsquid:S1905"+Remove this unnecessary cast to "TextView".(ı–…ˆşÿÿÿÿ8øÏõì»,
-Lsquid:S1905"+Remove this unnecessary cast to "TextView".(ÏÊ×‰ùÿÿÿÿ8øÏõì»,
-Hsquid:S1905",Remove this unnecessary cast to "ImageView".(–æİ¬8øÏõì»,
+squid:S1319"|The type of the "locationArrayList" object should be an interface such as "List" rather than the implementation "ArrayList".(Å…—ûÿÿÿÿ8©§ä“¼,
+Lsquid:S1905"+Remove this unnecessary cast to "TextView".(ı–…ˆşÿÿÿÿ8©§ä“¼,
+Lsquid:S1905"+Remove this unnecessary cast to "TextView".(ÏÊ×‰ùÿÿÿÿ8©§ä“¼,
+Hsquid:S1905",Remove this unnecessary cast to "ImageView".(–æİ¬8©§ä“¼,
