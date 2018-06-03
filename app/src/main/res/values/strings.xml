@@ -2,8 +2,10 @@
     <string name="app_name">Anaheim Tour Guide App</string>
     <string name="action_settings">Settings</string>
     <string name="local_attractions">local attractions</string>
-    <string name="theme_parks">Theme Parks</string>
-    <string name="landmarks">Landmarks</string>
+    <string name="theme_parks">Parks</string>
+    <string name="landmarks">Landmark</string>
+    <string name="foods">Foods</string>
+    <string name="hotels">Hotels</string>
 
     <!--Theme Park Names-->
     <string name="disneyland">Disneyland</string>

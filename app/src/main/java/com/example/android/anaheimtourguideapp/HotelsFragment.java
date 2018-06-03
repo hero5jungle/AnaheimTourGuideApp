@@ -21,14 +21,14 @@ public class HotelsFragment extends Fragment {
         View rootView = inflater.inflate(R.layout.listview, container, false);
 
         final ArrayList<Location> locationArrayList = new ArrayList<Location>();
-        locationArrayList.add(new Location(R.string.angel, R.string.angel_address,
-                R.drawable.angel));
-        locationArrayList.add(new Location(R.string.downtown_disney, R.string.downtown_disney_address,
-                R.drawable.dtdisney));
-        locationArrayList.add(new Location(R.string.little_tokyo, R.string.little_tokyo_address,
-                R.drawable.tokyo));
-        locationArrayList.add(new Location(R.string.cathedral, R.string.cathedral_address,
-                R.drawable.cathedral));
+        locationArrayList.add(new Location(R.string.candy_cane, R.string.candy_cane_address,
+                R.drawable.candy_cane));
+        locationArrayList.add(new Location(R.string.courtyard_anaheim, R.string.courtyard_anaheim_address,
+                R.drawable.courtyard));
+        locationArrayList.add(new Location(R.string.homewood_suites, R.string.homewood_suites_address,
+                R.drawable.homewood));
+        locationArrayList.add(new Location(R.string.indigo, R.string.indigo_address,
+                R.drawable.indigo));
 
         LocationAdapter adapter = new LocationAdapter(getActivity(), locationArrayList);
         ListView listView = (ListView) rootView.findViewById(R.id.list);
